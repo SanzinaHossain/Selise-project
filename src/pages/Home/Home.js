@@ -37,7 +37,7 @@ const Home = () => {
       <>
         <h1 Class="text-xl text-black mt-10">Catagory-A</h1>
       </>
-      <div class=" text-white border-2 w-96 bg-black border-primary mt-4 p-5">
+      <div class=" text-white border-2 w-96 bg-black border-primary mt-4 p-5 overflow-y-scroll h-48">
         {catagory.map((k) => (
           <SingleCatagory k={k}></SingleCatagory>
         ))}
@@ -45,7 +45,7 @@ const Home = () => {
       <>
         <h1 Class="text-xl text-black mt-10">Catagory-B</h1>
       </>
-      <div class=" text-white border-2 w-96 bg-black border-primary mt-4 p-5 h-48 scro">
+      <div class=" text-white border-2 w-96 bg-black border-primary mt-4 p-5 h-48 overflow-y-scroll">
         {catagory.map((k) => (
           <SingleCatagory k={k}></SingleCatagory>
         ))}
