@@ -86,7 +86,6 @@ const AddBookMark = () => {
                 },
               })}
             />
-            {/* <button class=" btn btn-primary flex">+</button> */}
             <label className="label">
               {errors.catagory?.type === "required" && (
                 <span className="label-text-alt text-red-700 bold">
