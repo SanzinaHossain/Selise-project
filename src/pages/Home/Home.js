@@ -43,7 +43,7 @@ const Home = () => {
         ))}
       </div>
       <>
-        <h1 Class="text-xl text-black mt-10">Catagory-A</h1>
+        <h1 Class="text-xl text-black mt-10">Catagory-B</h1>
       </>
       <div class=" text-white border-2 w-96 bg-black border-primary mt-4 p-5 h-48 scro">
         {catagory.map((k) => (
