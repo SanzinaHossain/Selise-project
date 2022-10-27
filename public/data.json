@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "javasript",
+    "url": "www.xyz.com",
+    "catagory": "catagory-A"
+  },
+  {
+    "id": 2,
+    "title": "Python",
+    "url": "www.xyz.com",
+    "catagory": "catagory-A"
+  },
+  {
+    "id": 3,
+    "title": "Angular",
+    "url": "www.xyz.com",
+    "catagory": "catagory-B"
+  },
+  {
+    "id": 4,
+    "title": "Typesript",
+    "url": "www.xyz.com",
+    "catagory": "catagory-B"
+  }
+]
